@@ -1,0 +1,40 @@
+body{
+	
+	background: #2D2D2D;
+	justify-content: center;
+    align-items: center;
+
+  
+}
+
+.button{
+	width:150%;
+	height:60px;
+	margin :2%;
+	font-size:110%;
+	cursor:pointer;
+	background-color:#999;
+	box-shadow: 4px 4px rgba(0, 0, 0, 0.2);	
+	top: 10px;
+  left: 10px;
+  
+
+}
+
+.textview{
+
+	width:35%;
+	height:40px;
+	padding:.5%;
+
+}
+
+td{
+	padding:1%;
+	text-align:center;
+}
+
+.credit{
+
+	text-align:left;
+}
